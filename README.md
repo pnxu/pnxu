@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pnxu?tab=repositories](https://github.com/pnxu?tab=repositories)
 
-- 📫 How to reach me **fcaavv@gmail.com**
+- 📫 You can reach me here: **fcaavv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
