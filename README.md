@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- :space_invader: I’m looking to collaborate **on exciting TI (Technology Information) projects**
+- :space_invader: I’m looking to collaborate **on exciting TI projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pnxu?tab=repositories](https://github.com/pnxu?tab=repositories)
 
