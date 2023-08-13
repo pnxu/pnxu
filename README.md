@@ -1,4 +1,5 @@
-<h3 align="left">Front-End Developer</h3>
+<h2> Francisca Vega </h2>
+<h3>Front-End Developer</h3>
 
 - 🌱 I’m currently learning **MERN with Typescript**
 
