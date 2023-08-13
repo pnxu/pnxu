@@ -1,4 +1,4 @@
-<h3 align="center">Front-End Developer</h3>
+<h3 align="left">Front-End Developer</h3>
 
 - 🌱 I’m currently learning **MERN with Typescript**
 
