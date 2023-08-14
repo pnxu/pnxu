@@ -1,10 +1,8 @@
-### Hi, I'm pnxu! :cherry_blossom:
-
 I'm a Front-End Developer who loves cats and enjoys watching movies.
 
-🌱 Currently learning **MERN with Typescript**
-:space_invader: Looking to collaborate on **exciting IT projects**
-📫 Reach me at: **[fcaavv@gmail.com](mailto:fcaavv@gmail.com)**
+- 🌱 Currently learning **MERN with Typescript**
+- :space_invader: Looking to collaborate on **exciting IT projects**
+- Reach me at: **[fcaavv@gmail.com](mailto:fcaavv@gmail.com)**
 
 **Connect with me:**
 [LinkedIn](https://linkedin.com/in/fcaavv)
