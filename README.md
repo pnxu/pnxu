@@ -1,14 +1,13 @@
-Front-End Developer
+### Hi, I'm pnxu! :cherry_blossom:
 
-- 🌱 I’m currently learning **MERN with Typescript**
-- :space_invader: I’m looking to collaborate **on exciting IT projects**
-- 👨‍💻 All of my projects are available at [https://github.com/pnxu?tab=repositories](https://github.com/pnxu?tab=repositories)
-- 📫 You can reach me here: **fcaavv@gmail.com**
+I'm a Front-End Developer who loves cats and enjoys watching movies.
 
-<h3>Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fcaavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fcaavv" height="30" width="40" /></a>
-</p>
+🌱 Currently learning **MERN with Typescript**
+:space_invader: Looking to collaborate on **exciting IT projects**
+📫 Reach me at: **[fcaavv@gmail.com](mailto:fcaavv@gmail.com)**
+
+**Connect with me:**
+[LinkedIn](https://linkedin.com/in/fcaavv)
 
 <details>
 <summary><h3 align="left">Languages and Tools:</h3></summary>
