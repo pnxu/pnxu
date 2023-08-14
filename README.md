@@ -1,5 +1,4 @@
-<p> Francisca Vega </p>
-<p>Front-End Developer</p>
+Front-End Developer
 
 - 🌱 I’m currently learning **MERN with Typescript**
 - :space_invader: I’m looking to collaborate **on exciting IT projects**
