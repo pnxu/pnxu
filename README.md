@@ -2,14 +2,11 @@
 <p>Front-End Developer</p>
 
 - 🌱 I’m currently learning **MERN with Typescript**
-
 - :space_invader: I’m looking to collaborate **on exciting IT projects**
-
 - 👨‍💻 All of my projects are available at [https://github.com/pnxu?tab=repositories](https://github.com/pnxu?tab=repositories)
-
 - 📫 You can reach me here: **fcaavv@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3>Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fcaavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fcaavv" height="30" width="40" /></a>
 </p>
