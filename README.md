@@ -1,5 +1,5 @@
 <p> Francisca Vega </p>
-<h3>Front-End Developer</h3>
+<p>Front-End Developer</p>
 
 - 🌱 I’m currently learning **MERN with Typescript**
 
