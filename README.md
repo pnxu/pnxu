@@ -1,6 +1,6 @@
 I'm a Front-End Developer who loves cats and enjoys watching movies.
 
-- 🌱 Currently learning `SQL & React Native`, also working in [portal impacto](https://github.com/pnxu/portal_impacto)
+- 🌱 Currently learning `MERN`
 - :space_invader: Looking to collaborate on exciting IT projects
 - Reach me at: **[fcaavv@gmail.com](mailto:fcaavv@gmail.com)**
 
