@@ -1,7 +1,5 @@
-I'm a Front-End Developer who loves cats and enjoys watching movies.
-
 - 🌱 Currently learning `MERN`
-- :space_invader: Looking to collaborate on exciting IT projects
+- :space_invader: Looking to collaborate on exciting projects
 - Reach me at: **[fcaavv@gmail.com](mailto:fcaavv@gmail.com)**
 
 Connect with me on 
